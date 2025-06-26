@@ -49,6 +49,10 @@ email-writer/
   ```
 - Open [http://localhost:5173](http://localhost:5173) in your browser.
 
+### Preview
+![image](https://github.com/user-attachments/assets/b5098e03-4b73-4287-b408-1e03fe81a6c6)
+
+
 ### 3. Chrome Extension
 
 - Navigate to `email-writer-ext`
